@@ -1,6 +1,6 @@
 ## Quem sou eu
 
-Sou formado em Tecnologia da Informação e Engenharia da Computação, com foco total em DevOps e Infraestrutura. Minha atuação é centrada na criação de sistemas resilientes, escaláveis e seguros, unindo uma base sólida de redes e segurança com as melhores práticas de automação e cultura Cloud Native.
+Sou formado em Tecnologia da Informação e Engenharia da Computação, com foco em DevOps e Infraestrutura. Minha atuação é centrada na criação de sistemas resilientes, escaláveis e seguros, unindo uma base sólida de redes e segurança com as melhores práticas de automação e cultura Cloud Native.
 
 ## No que estou trabalhando
 
