@@ -26,10 +26,10 @@ Sou formado em Tecnologia da Informação e Engenharia da Computação, com foco
 
 ## Projetos e Exemplos Práticos
 
-Configuração de Edge Proxy e Segurança: Implementação do Traefik como gateway principal, gerenciando certificados SSL automáticos (Let's Encrypt), controle de buffering para uploads e integração com Docker.
+`Configuração de Edge Proxy e Segurança:` Implementação do Traefik como gateway principal, gerenciando certificados SSL automáticos (Let's Encrypt), controle de buffering para uploads e integração com Docker.
 
-Automação de Sistemas com Bash: Desenvolvimento de scripts recursivos de alta performance para descompressão e gerenciamento de arquivos em massa (formatos .bz2, .gz, etc), otimizando tarefas de rotina no Linux.
+`Automação de Sistemas com Bash:` Desenvolvimento de scripts recursivos de alta performance para descompressão e gerenciamento de arquivos em massa (formatos .bz2, .gz, etc), otimizando tarefas de rotina no Linux.
 
-Infraestrutura Cloud Native: Deploy de clusters Kubernetes utilizando Helm para padronização de aplicações e Terraform para provisionamento de recursos em nuvem.
+`Infraestrutura Cloud Native:` Deploy de clusters Kubernetes utilizando Helm para padronização de aplicações e Terraform para provisionamento de recursos em nuvem.
 
-Monitoramento e Resiliência (SRE): Criação de dashboards no Grafana alimentados por Prometheus para monitorar métricas críticas de containers, garantindo a observabilidade do ambiente.
+`Monitoramento e Resiliência (SRE):` Criação de dashboards no Grafana alimentados por Prometheus para monitorar métricas críticas de containers, garantindo a observabilidade do ambiente.
